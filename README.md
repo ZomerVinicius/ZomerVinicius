@@ -1,4 +1,4 @@
-# Vinicius Dias
+# Vinicius Zomer
 [![Linkedin Badge](https://img.shields.io/badge/-viniciuszomer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-m-dias/)](https://www.linkedin.com/in/vinicius-zomer/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/9555899/vinicius-zomer)](https://stackoverflow.com/users/9555899/vinicius-zomer)
 [![Gmail Badge](https://img.shields.io/badge/-vinicius.zomer123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusimpulse@gmail.com)](mailto:vinicius.zomer123@gmail.com)
