@@ -11,7 +11,7 @@ I'm Vinicius Zomer, I'm a Frontend developer 👨‍💻 who is passionate about
 ## About me
 
 - 🔭 I’m currently working on Typescript, React, React Native and Graphql technologies
-- 🌱 I’m currently learning Tests and of course JS improvments
+- 🌱 I’m currently learning Tests and of course JS improvements
 - 💬 Ask me about: tech, music, cycling and a little bit about investments.
 -  ⚡ Technologies: React, Node, Gatsbyjs, React-Native, Graphql, NextJS, Prisma, PostgreSQL, Typescript
 
