@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-vinicius.zomer123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusimpulse@gmail.com)](mailto:vinicius.zomer123@gmail.com)
 
 ## Hello friend
-I'm Vinicius Zomer, I'm a Frontend developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem. 
+I'm Vinicius Zomer, I'm a Mobile developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem. 
 
 <table><tr><td valign="top" width="49%">
 
